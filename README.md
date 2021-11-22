@@ -8,8 +8,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -18,8 +16,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -28,8 +24,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -38,8 +32,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -48,8 +40,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -58,8 +48,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -68,8 +56,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -78,8 +64,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -88,8 +72,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -98,8 +80,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -108,8 +88,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -118,8 +96,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -128,8 +104,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -138,8 +112,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
@@ -148,8 +120,6 @@
 		- Hobbies:
 		- Favourite foods:
 		- Favorite places:
-		- Favorite books:
-		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
 
