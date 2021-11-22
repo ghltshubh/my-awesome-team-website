@@ -1,13 +1,19 @@
 # My Awesome Team
 
-- ## Team Name: 
+- ## Team Name: IMPACT
 
 - ## Team members:
 	1. ### Member 1:
-		- Name:
-		- Hobbies:
-		- Favourite foods:
-		- Webpage / Blog URL:
+		- Name: Shubhankar Gahlot
+		- Hobbies: Programming, Music, Reading
+		- Favourite foods: Pizza, Burger, Pasta
+		- Webpage / Blog URL: https://shubhankar.github.io/
+	2. ### Member 2:
+		- Name: 
+		- Hobbies: 
+		- Favourite foods: 
+		- Webpage / Blog URL: 
+
 
 ```markdown
 Syntax highlighted code block
