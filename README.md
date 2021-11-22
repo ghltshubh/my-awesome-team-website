@@ -147,6 +147,7 @@
 		- Favorite games:
 		- Favorite music:
 		- Favorite movies and tv shows:
+
 ```markdown
 Syntax highlighted code block
 
