@@ -1,4 +1,4 @@
-# My Awesome Team ## Changes from kaboom branch for merge conflict
+# My Awesome Team
 
 - ## Team Name: 
 
