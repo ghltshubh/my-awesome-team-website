@@ -1,13 +1,13 @@
 # My Awesome Team
 
-- ## Team Name: 
+- ## Team Name: IMPACT
 
 - ## Team members:
 	1. ### Member 1:
-		- Name:
-		- Hobbies:
-		- Favourite foods:
-		- Webpage / Blog URL:
+		- Name: Kim Harrison
+		- Hobbies: Dancing, Reading, and Coding
+		- Favourite foods: Donuts, Pizza, and Pasta
+		- Webpage / Blog URL: [https://kimharrison.me](https://kimharrison.me)
 
 ```markdown
 Syntax highlighted code block
