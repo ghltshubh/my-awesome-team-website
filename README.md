@@ -4,10 +4,15 @@
 
 - ## Team members:
 	1. ### Member 1:
+		- Name: Muthukumaran Ramasubramanian
+		- Hobbies: Chess, Cricket, Reading
+		- Favourite foods: Burrito, Dosa, Pizza
+		- Webpage / Blog URL: https://muthu.tech
+	2. ### Member 2:
 		- Name:
-		- Hobbies:
-		- Favourite foods:
-		- Webpage / Blog URL:
+		- Hobbies: 
+		- Favourite foods: 
+		- Webpage / Blog URL: 
 
 ```markdown
 Syntax highlighted code block
