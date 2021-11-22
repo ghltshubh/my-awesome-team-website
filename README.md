@@ -5,11 +5,11 @@
 - ## Team members:
 	1. ### Member 1:
 		- Name: Andrew
-		- Hobbies:
-		- Favourite foods:
-		- Favorite places:
-		- Favorite music:
-		- Favorite movies and tv shows:
+		- Hobbies: Running, Reading, Programming
+		- Favourite foods: Pizza, Pasta, Steak
+		- Favorite places: Italy, Spain, France
+		- Favorite music: Rock, Pop, Classical
+		- Favorite movies and tv shows: The Godfather, The Dark Knight, The Matrix
 
 	2. ### Member 2:
 		- Name: Brad
