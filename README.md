@@ -1,6 +1,6 @@
 # My Awesome Team
 
-- ## Team Name: 
+- ## Team Name: IMPACT
 
 - ## Team members:
 	1. ### Member 1:
