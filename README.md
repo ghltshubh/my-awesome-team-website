@@ -21,11 +21,11 @@
 
 	3. ### Member 3:
 		- Name: Camille
-		- Hobbies:
-		- Favourite foods:
-		- Favorite places:
-		- Favorite music:
-		- Favorite movies and tv shows:
+		- Hobbies: Internet, Programming, Music
+		- Favourite foods: Omelette, Dessert, Pizza
+		- Favorite places: India, Denmark, France
+		- Favorite music: Youtube, Spotify, Classical
+		- Favorite movies and tv shows: Interstellar, Harry Potter, Up
 
 	4. ### Member 4:
 		- Name: Cerese
