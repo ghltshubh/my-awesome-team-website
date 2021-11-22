@@ -13,11 +13,11 @@
 
 	2. ### Member 2:
 		- Name: Brad
-		- Hobbies:
-		- Favourite foods:
-		- Favorite places:
-		- Favorite music:
-		- Favorite movies and tv shows:
+		- Hobbies: Jogging, Hiking, Cooking
+		- Favourite foods: Burger, Pizza, Pasta
+		- Favorite places: India, Spain, France
+		- Favorite music: Indie, Pop, Classical
+		- Favorite movies and tv shows: Inception, Interstellar, The Matrix
 
 	3. ### Member 3:
 		- Name: Camille
