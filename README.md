@@ -11,7 +11,7 @@
 		- Favorite animal: Hamster
 		- Favourite sport: Cricket
 		- Favorite book: Dune
-		- Favourite places: India, USA, Canada
+		- Favorite places: India, USA, Canada
 		- Favorite music: Rock, Pop, Classical
 		- Favorite movies and tv shows: The Godfather, The Dark Knight, The Matrix
 
