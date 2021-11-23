@@ -17,15 +17,15 @@
 
 	2. ### Member 2:
 		- Name: Brad
-		- Hobbies:
-		- Favorite food:
-		- Favorite color:
-		- Favorite animal:
-		- Favourite sport:
-		- Favorite book:
-		- Favourite places:
-		- Favorite music:
-		- Favorite movies and tv shows:
+		- Hobbies: Hockey
+		- Favorite food: Pizza
+		- Favorite color: Blue
+		- Favorite animal: Dog
+		- Favourite sport: Soccer
+		- Favorite book: The Hobbit
+		- Favourite places: Paris, London, New York
+		- Favorite music: Rock
+		- Favorite movies and tv shows: The Matrix, The Godfather, The Dark Knight
 
 	3. ### Member 3:
 		- Name: Camille
