@@ -4,16 +4,16 @@
 
 - ## Team members:
 	1. ### Member 1:
-		- Name: Andrew
-		- Hobbies:
-		- Favorite food:
-		- Favorite color:
-		- Favorite animal:
-		- Favourite sport:
-		- Favorite book:
-		- Favourite places:
-		- Favorite music:
-		- Favorite movies and tv shows:
+		- Name: Shubhankar
+		- Hobbies: Movies, Music, Reading
+		- Favorite food: Pizza
+		- Favorite color: Red
+		- Favorite animal: Hamster
+		- Favourite sport: Cricket
+		- Favorite book: Dune
+		- Favourite places: India, USA, Canada
+		- Favorite music: Rock, Pop, Classical
+		- Favorite movies and tv shows: The Godfather, The Dark Knight, The Matrix
 
 	2. ### Member 2:
 		- Name: Brad
