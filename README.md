@@ -5,6 +5,11 @@
 - ## Team members:
 	1. ### Member 1:
 		- Hobbies:
+		- Favorite food:
+		- Favorite color:
+		- Favorite animal:
+		- Favourite sport:
+		- Favorite book:
 		- Favourite places:
 		- Favorite music:
 		- Favorite movies and tv shows:
