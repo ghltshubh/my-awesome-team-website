@@ -4,14 +4,10 @@
 
 - ## Team members:
 	1. ### Member 1:
-		- Name:
 		- Hobbies:
-		- Favourite foods:
-		- Favorite places:
+		- Favourite places:
 		- Favorite music:
 		- Favorite movies and tv shows:
-
-
 
 ```markdown
 Syntax highlighted code block
