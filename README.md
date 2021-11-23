@@ -4,28 +4,28 @@
 
 - ## Team members:
 	1. ### Member 1:
-		- Name: Shubhankar
-		- Hobbies: Movies, Music, Reading
-		- Favorite food: Pizza
-		- Favorite color: Red
-		- Favorite animal: Hamster
-		- Favourite sport: Cricket
-		- Favorite book: Dune
-		- Favorite places: India, USA, Canada
-		- Favorite music: Rock, Pop, Classical
-		- Favorite movies and tv shows: The Godfather, The Dark Knight, The Matrix
+		- Name: Andrew
+		- Hobbies:
+		- Favorite food:
+		- Favorite color:
+		- Favorite animal:
+		- Favourite sport:
+		- Favorite book:
+		- Favorite places:
+		- Favorite music:
+		- Favorite movies and tv shows:
 
 	2. ### Member 2:
 		- Name: Brad
-		- Hobbies: Hockey
-		- Favorite food: Pizza
-		- Favorite color: Blue
-		- Favorite animal: Dog
-		- Favourite sport: Soccer
-		- Favorite book: The Hobbit
-		- Favourite places: Paris, London, New York
-		- Favorite music: Rock
-		- Favorite movies and tv shows: The Matrix, The Godfather, The Dark Knight
+		- Hobbies:
+		- Favorite food:
+		- Favorite color:
+		- Favorite animal:
+		- Favourite sport:
+		- Favorite book:
+		- Favourite places:
+		- Favorite music:
+		- Favorite movies and tv shows:
 
 	3. ### Member 3:
 		- Name: Camille
