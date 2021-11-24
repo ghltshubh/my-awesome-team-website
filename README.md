@@ -4,7 +4,7 @@
 
 - ## Team members:
 	1. ### Member 1:
-		- Name:
+		- Name: Slesa
 		- Hobbies:
 		- Favorite food:
 		- Favorite color:
