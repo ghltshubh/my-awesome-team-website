@@ -7,7 +7,7 @@
 		- Name:
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
