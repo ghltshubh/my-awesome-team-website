@@ -7,7 +7,7 @@
 		- Name: Andrew
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -19,7 +19,7 @@
 		- Name: Brad
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -31,7 +31,7 @@
 		- Name: Camille
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -43,7 +43,7 @@
 		- Name: Cerese
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -55,7 +55,7 @@
 		- Name: Dai-Hai Ton That (Hai)
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -67,7 +67,7 @@
 		- Name: Danielle
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -79,7 +79,7 @@
 		- Name: Deborah
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -91,7 +91,7 @@
 		- Name: Derek
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -103,7 +103,7 @@
 		- Name: Jayanthi
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -115,7 +115,7 @@
 		- Name: Jeanné
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -127,7 +127,7 @@
 		- Name: Jenny
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -139,7 +139,7 @@
 		- Name: Matt
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -151,7 +151,7 @@
 		- Name: Samuel
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -163,7 +163,7 @@
 		- Name: Shelby
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -175,7 +175,7 @@
 		- Name: Iksha
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
@@ -187,7 +187,7 @@
 		- Name: Shubhankar
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
 		- Favourite sport:
 		- Favorite book:
