@@ -100,7 +100,7 @@
 		- Favorite movies and tv shows:
 
 	9. ### Member 9:
-		- Name: Jayanthi
+		- Name: Iksha
 		- Hobbies:
 		- Favorite food:
 		- Favorite colour:
@@ -112,7 +112,7 @@
 		- Favorite movies and tv shows:
 
 	10. ### Member 10:
-		- Name: Jeanné
+		- Name: Jayanthi
 		- Hobbies:
 		- Favorite food:
 		- Favorite colour:
@@ -124,7 +124,7 @@
 		- Favorite movies and tv shows:
 
 	11. ### Member 11:
-		- Name: Jenny
+		- Name: Jeanné
 		- Hobbies:
 		- Favorite food:
 		- Favorite colour:
@@ -136,7 +136,7 @@
 		- Favorite movies and tv shows:
 
 	12. ### Member 12:
-		- Name: Matt
+		- Name: Jenny
 		- Hobbies:
 		- Favorite food:
 		- Favorite colour:
@@ -148,7 +148,7 @@
 		- Favorite movies and tv shows:
 
 	13. ### Member 13:
-		- Name: Samuel
+		- Name: Matt
 		- Hobbies:
 		- Favorite food:
 		- Favorite colour:
@@ -160,7 +160,7 @@
 		- Favorite movies and tv shows:
 
 	14. ### Member 14:
-		- Name: Shelby
+		- Name: Samuel
 		- Hobbies:
 		- Favorite food:
 		- Favorite colour:
@@ -172,7 +172,7 @@
 		- Favorite movies and tv shows:
 
 	15. ### Member 15:
-		- Name: Iksha
+		- Name: Shelby
 		- Hobbies:
 		- Favorite food:
 		- Favorite colour:
