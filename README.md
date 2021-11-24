@@ -4,12 +4,12 @@
 
 - ## Team members:
 	1. ### Member 1:
-		- Name: 
+		- Name: Andrew
 		- Hobbies:
 		- Favorite food:
-		- Favorite color:
+		- Favorite colour:
 		- Favorite animal:
-		- Favorite sport:
+		- Favourite sport:
 		- Favorite book:
 		- Favorite places:
 		- Favorite music:
