@@ -4,7 +4,7 @@
 
 - ## Team members:
 	1. ### Member 1:
-		- Name: Andrew
+		- Name: 
 		- Hobbies:
 		- Favorite food:
 		- Favorite color:
