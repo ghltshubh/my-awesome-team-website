@@ -7,9 +7,9 @@
 		- Name: Andrew
 		- Hobbies:
 		- Favorite food:
-		- Favorite colour:
+		- Favorite color:
 		- Favorite animal:
-		- Favourite sport:
+		- Favorite sport:
 		- Favorite book:
 		- Favorite places:
 		- Favorite music:
